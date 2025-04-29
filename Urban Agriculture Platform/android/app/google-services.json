@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "806462718167",
+    "firebase_url": "https://rootly-d56ba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rootly-d56ba",
+    "storage_bucket": "rootly-d56ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806462718167:android:85ce72985b7822c4653092",
+        "android_client_info": {
+          "package_name": "com.example.rootly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBUc9uz8xxGCkBcf0bz9k2-zrGWTiYLTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
